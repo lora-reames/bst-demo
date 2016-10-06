@@ -1,7 +1,7 @@
 {
-  "name": "bst-demo",
+  "name": "bst-tabs",
   "version": "1.1.1",
-  "description": "bst-demo: An Ionic project",
+  "description": "bst-tabs: An Ionic project",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",
