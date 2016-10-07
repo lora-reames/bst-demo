@@ -1,1 +1,11 @@
 /* Empty. Add your own CSS if you like */
+
+.col {
+  height: 24px;
+}
+
+progress {
+  display: inline-block;
+  height: 10px;
+  margin-top: 7px;
+}
